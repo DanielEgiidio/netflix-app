@@ -1,70 +1,29 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Info do projeto
 
-## Available Scripts
+- Funcionalidade: Um website para visualização de filmes, suas categorias e trailers baseado na interface do Netflix.
+- Tecnologias: O projeto foi criado utilizando ReactJs, fazendo uso de seus Hooks como: State e Effect, Firebase e Youtube React para exibição dos trailers.
 
-In the project directory, you can run:
+### Como rodar o projeto:
 
-### `yarn start`
+Você pode clonar o projeto e rodá-lo localmente seguindo os passos abaixo:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- git clone https://github.com/DanielEgiidio/netflix-app para clonar o projeto
+- npm install para instalar as dependências do projeto
+- npm start
+- Acessar http://localhost:3000 no navegador
 
-### `yarn test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
+# HomePage
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<a href="https://ibb.co/y69vNsR"><img src="https://i.ibb.co/gS2qrg7/Home-Netflix.png" alt="Home-Netflix" border="0"></a>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Categoria dos Videos
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<a href="https://ibb.co/FwBJFQT"><img src="https://i.ibb.co/jMLGSCX/Categorias-Netflix.png" alt="Categorias-Netflix" border="0"></a>
 
-### `yarn eject`
+#Exibição dos Trailers
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<a href="https://ibb.co/8BnWZL3"><img src="https://i.ibb.co/TTDV3xX/Trailer-Video-Netflix.png" alt="Trailer-Video-Netflix" border="0"></a>
